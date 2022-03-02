@@ -2,7 +2,7 @@
 
 a small firebase library for improved error handling
 
-### Instalation
+### Installation
 
 ```bash
 npm i wrapped-firebase
