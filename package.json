@@ -1,8 +1,11 @@
 {
   "name": "wrapped-firebase",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a small firebase library for improved error handling",
   "main": "index.ts",
+  "dependencies": {
+    "firebase": "^9.6.1"
+  },
   "directories": {
     "lib": "lib"
   },
