@@ -1,4 +1,5 @@
 import { PhoneAuthProvider, getAuth } from "firebase/auth";
+import React from "react";
 
 export async function verifyPhoneNumber(
   phone: string,
